@@ -1,7 +1,0 @@
-class main;
-public static (Strink srk());
-int x = 15;
-if (x<=5);
-System.out.Println("Ты крутой");
-else;
-System.out.Println("Ты неудачник");
